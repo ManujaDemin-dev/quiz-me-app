@@ -43,6 +43,7 @@ export const theme = {
     lg: '20px',   
     xl: '28px',   
     full: '9999px',
+  },
 
   fontSize: {
     xs: '12px',   
