@@ -27,7 +27,7 @@ export default function Home() {
           <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
             Welcome to <span className="bg-gradient-to-r from-accent to-accent/80 bg-clip-text text-transparent">Quiz Me</span>
           </h1>
-          
+
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
             Test your knowledge with engaging quizzes. Sign in to get started and track your progress.
           </p>
